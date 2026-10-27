@@ -11,3 +11,87 @@
 2025-02-14T08:37:18.831Z info: Item Added - Product Title: Router, Product ID: 67af00be77ef1ac2cab4068f, Condition: Working/Functional, Department: IAT, Repair Date: Sat Feb 22 2025 05:30:00 GMT+0530 (India Standard Time), Hall ID: A 101, User: manuga@gmail.com
 2025-02-14T08:37:32.094Z info: Item Deleted - Product Title: Router, Product ID: 67af00be77ef1ac2cab4068f, User: manuga@gmail.com
 2025-02-14T08:38:16.947Z info: Item Edited - Product ID: 67aef9d19fbeda859248416d, Changes Made: {ID: old = "123", new = "12"}, {Condition: old = "Under Maintenance", new = "Working/Functional"}, User: manuga@gmail.com
+2025-02-17T13:41:06.933Z info: User logged in successfully with email: madukauser@gmail.com
+2025-02-17T14:09:06.784Z info: User logged out with email: madukauser@gmail.com
+2025-02-17T15:21:10.216Z info: User logged in successfully with email: madukauser@gmail.com
+2025-02-17T15:21:54.372Z info: User logged out with email: madukauser@gmail.com
+2025-02-17T15:22:03.108Z info: User logged in successfully with email: maduka@gmail.com
+2025-02-17T15:25:34.311Z info: User logged out with email: maduka@gmail.com
+2025-02-17T15:48:39.227Z info: User logged in successfully with email: maduka@gmail.com
+2025-02-17T15:49:07.690Z info: User Deleted - User Email: madukauser@gmail.com. Action performed by: maduka@gmail.com
+2025-02-17T15:49:13.168Z info: User logged out with email: maduka@gmail.com
+2025-02-17T15:51:46.121Z info: User logged in successfully with email: madukauser@gmail.com
+2025-02-17T15:53:20.182Z info: User logged out with email: madukauser@gmail.com
+2025-02-18T13:36:57.079Z info: User logged in successfully with email: madukauser@email.com
+2025-02-18T13:37:06.208Z info: User logged out with email: madukauser@email.com
+2025-02-18T13:37:21.142Z info: User logged in successfully with email: maduka@gmail.com
+2025-02-18T13:37:39.342Z info: User Deleted - User Email: madukauser@email.com. Action performed by: maduka@gmail.com
+2025-02-18T13:38:00.739Z info: User logged out with email: maduka@gmail.com
+2025-02-18T13:39:04.257Z info: User logged in successfully with email: madukauser@gmail.com
+2025-02-18T13:39:28.430Z info: User logged out with email: madukauser@gmail.com
+2025-02-18T13:52:53.209Z info: User logged in successfully with email: madukauser@gmail.com
+2025-02-18T13:53:42.665Z info: User logged out with email: madukauser@gmail.com
+2025-02-19T13:35:06.626Z info: User logged in successfully with email: madukauser@gmail.com
+2025-02-19T13:36:23.096Z info: User logged out with email: madukauser@gmail.com
+2025-10-28T01:33:17.947Z info: User logged in successfully with email: madukauser@gmail.com
+2025-10-28T01:50:51.328Z info: User logged out with email: madukauser@gmail.com
+2025-10-28T02:06:08.762Z info: User logged in successfully with email: maduka@gmail.com
+2025-10-28T02:10:22.869Z info: User logged out with email: maduka@gmail.com
+2025-10-31T08:23:32.334Z info: User logged in successfully with email: maduka@gmail.com
+2025-10-31T08:24:24.956Z info: Role Updated - User Email: madukauser@gmail.com, Old Role: user, New Role: admin. Action performed by: maduka@gmail.com
+2025-10-31T08:27:15.875Z info: User logged out with email: maduka@gmail.com
+2025-10-31T08:27:29.092Z info: User logged in successfully with email: madukauser@gmail.com
+2025-10-31T08:28:03.466Z info: User logged out with email: madukauser@gmail.com
+2025-10-31T08:31:31.341Z info: User logged in successfully with email: usermaduka@gmail.com
+2025-10-31T08:31:40.360Z info: User logged out with email: usermaduka@gmail.com
+2025-10-31T08:34:19.462Z info: User logged in successfully with email: usermaduka@gmail.com
+2025-10-31T08:37:37.635Z info: User logged out with email: usermaduka@gmail.com
+2025-10-31T08:37:56.414Z info: User logged in successfully with email: maduka@gmail.com
+2025-10-31T08:39:46.250Z info: Item Edited - Product Title: Projector, Product ID: 35, Changes Made: {ID: old = "undefined", new = "35"}, {Department: old = "ICT", new = "ET"}, User: maduka@gmail.com
+2025-10-31T08:40:04.578Z info: Item Deleted - Product Title: Projector, Product ID: 67b4590243b436e781d9a7fb, User: maduka@gmail.com
+2025-10-31T08:43:15.987Z info: Item Added - Product Title: Server, Product ID: 690476a346e6113ff8f6c031, Condition: Working/Functional, Department: ICT, Repair Date: Wed Oct 22 2025 05:30:00 GMT+0530 (India Standard Time), Hall ID: A 101, User: maduka@gmail.com
+2025-10-31T08:48:03.216Z info: Item Deleted - Product Title: Server, Product ID: 690476a346e6113ff8f6c031, User: maduka@gmail.com
+2025-10-31T08:48:47.923Z info: Item Added - Product Title: Server, Product ID: 690477ef46e6113ff8f6c036, Condition: Working/Functional, Department: ICT, Repair Date: Wed Oct 22 2025 05:30:00 GMT+0530 (India Standard Time), Hall ID: A 101, User: maduka@gmail.com
+2025-10-31T08:49:01.573Z info: Item Deleted - Product Title: Server, Product ID: 690477ef46e6113ff8f6c036, User: maduka@gmail.com
+2025-10-31T08:54:49.341Z info: User logged out with email: maduka@gmail.com
+2025-10-31T08:55:45.634Z info: User logged in successfully with email: usermaduka@gmail.com
+2025-10-31T08:56:25.908Z info: User logged out with email: usermaduka@gmail.com
+2025-10-31T08:56:40.755Z info: User logged in successfully with email: maduka@gmail.com
+2025-10-31T08:57:07.675Z info: User logged out with email: maduka@gmail.com
+2025-10-31T08:57:16.671Z info: User logged in successfully with email: usermaduka@gmail.com
+2025-10-31T08:58:02.447Z info: User logged out with email: usermaduka@gmail.com
+2025-10-31T08:58:24.869Z info: User logged in successfully with email: usermaduka@gmail.com
+2025-10-31T08:59:42.655Z info: User logged out with email: usermaduka@gmail.com
+2025-10-31T08:59:51.481Z info: User logged in successfully with email: maduka@gmail.com
+2025-10-31T09:00:36.610Z info: Item Edited - Product Title: Cameras - DSLR, Product ID: 57, Changes Made: {ID: old = "undefined", new = "57"}, {Hall Type: old = "Laboratory", new = "Lecture hall"}, User: maduka@gmail.com
+2025-10-31T09:01:17.977Z info: Item Added - Product Title: Server, Product ID: 69047add46e6113ff8f6c0a2, Condition: Working/Functional, Department: IAT, Repair Date: Wed Oct 29 2025 05:30:00 GMT+0530 (India Standard Time), Hall ID: A 101, User: maduka@gmail.com
+2025-10-31T09:01:28.041Z info: Item Deleted - Product Title: Server, Product ID: 69047add46e6113ff8f6c0a2, User: maduka@gmail.com
+2025-10-31T09:01:49.596Z info: Item Edited - Product Title: Projector, Product ID: undefined, Changes Made: {Repair Date: old = "10/30/2025", new = "10/7/2025"}, User: maduka@gmail.com
+2025-10-31T09:02:05.873Z info: Role Updated - User Email: ashenuser@gmail.com, Old Role: user, New Role: admin. Action performed by: maduka@gmail.com
+2025-10-31T09:02:20.288Z info: User logged out with email: maduka@gmail.com
+2025-11-15T12:36:11.598Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T01:21:19.521Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T01:22:00.765Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T01:24:57.114Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T01:29:55.343Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T01:36:48.196Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T01:37:37.088Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T01:37:40.900Z info: User logged out with email: maduka@gmail.com
+2025-11-16T01:38:11.994Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T01:38:15.684Z info: User logged out with email: maduka@gmail.com
+2025-11-16T03:31:07.285Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-16T03:48:21.428Z info: User logged out with email: maduka@gmail.com
+2025-11-16T09:33:07.920Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-19T04:58:41.890Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-19T05:00:14.384Z info: User logged out with email: maduka@gmail.com
+2025-11-19T05:00:22.556Z info: User logged in successfully with email: madukauser@gmail.com
+2025-11-19T05:00:43.800Z info: User logged out with email: madukauser@gmail.com
+2025-11-19T05:04:25.019Z info: User logged in successfully with email: usermaduka@gmail.com
+2025-11-19T05:04:36.080Z info: User logged out with email: usermaduka@gmail.com
+2025-11-19T16:39:06.673Z info: User logged in successfully with email: usermaduka@gmail.com
+2025-11-19T16:41:09.720Z info: User logged out with email: usermaduka@gmail.com
+2025-11-19T16:41:17.344Z info: User logged in successfully with email: maduka@gmail.com
+2025-11-19T16:42:12.271Z info: Item Edited - Product Title: Server, Product ID: undefined, Changes Made: {Repair Date: old = "2/7/2025", new = "11/20/2025"}, User: maduka@gmail.com
+2026-01-03T13:42:18.620Z info: User logged in successfully with email: maduka@gmail.com
+2026-01-08T01:04:01.620Z info: User logged in successfully with email: maduka@gmail.com
+2026-02-08T05:38:23.835Z info: User logged in successfully with email: maduka@gmail.com
